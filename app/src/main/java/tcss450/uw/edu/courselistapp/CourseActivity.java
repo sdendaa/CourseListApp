@@ -9,6 +9,8 @@ import tcss450.uw.edu.courselistapp.Course.CourseContent;
 
 public class CourseActivity extends AppCompatActivity implements CourseListFragment.OnListFragmentInteractionListener{
 
+    //Vladimir Smirnov
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
